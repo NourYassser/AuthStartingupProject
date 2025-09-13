@@ -12,8 +12,8 @@ using StartUp.Models.Data;
 namespace StartUp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250830085156_Auth")]
-    partial class Auth
+    [Migration("20250913151243_StartUp")]
+    partial class StartUp
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
