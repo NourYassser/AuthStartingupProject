@@ -4366,11 +4366,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nour_\\source\\repos\\StartUp.API\\StartUp\\StartUp.csproj",
+      "projectUniqueName": "C:\\Users\\nour_\\source\\repos\\Password Vault\\StartUp\\StartUp.csproj",
       "projectName": "StartUp",
-      "projectPath": "C:\\Users\\nour_\\source\\repos\\StartUp.API\\StartUp\\StartUp.csproj",
+      "projectPath": "C:\\Users\\nour_\\source\\repos\\Password Vault\\StartUp\\StartUp.csproj",
       "packagesPath": "C:\\Users\\nour_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nour_\\source\\repos\\StartUp.API\\StartUp\\obj\\",
+      "outputPath": "C:\\Users\\nour_\\source\\repos\\Password Vault\\StartUp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

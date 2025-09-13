@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vDm6uDb7Qp8=",
+  "dgSpecHash": "PE7Au46xEHk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nour_\\source\\repos\\StartUp.API\\StartUp\\StartUp.csproj",
+  "projectFilePath": "C:\\Users\\nour_\\source\\repos\\Password Vault\\StartUp\\StartUp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nour_\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\nour_\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
